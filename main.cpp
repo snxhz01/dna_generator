@@ -9,6 +9,7 @@ int main(){
 int org;
 int length;
 
+int hello; 
 double numA;
 double numG;
 double numC;
